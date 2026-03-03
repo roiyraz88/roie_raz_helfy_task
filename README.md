@@ -65,3 +65,5 @@ Make sure the backend is running before starting the frontend.
 | Styling                        | ~30 min  |
 | Testing + debugging            | ~25 min  |
 | README + cleanup               | ~10 min  |
+
+<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/2c965b6b-6848-4293-83aa-1bcc816ebc50" />
